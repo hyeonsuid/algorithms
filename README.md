@@ -1,1 +1,3 @@
-# algorithms
+# Algorithms
+
+Algorithms implemented in Rust.
